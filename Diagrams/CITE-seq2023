@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2023-03-16T12:04:15.561Z" agent="5.0 (X11)" etag="ViU9X7nWQiXe8G96bHaC" version="21.0.6" type="github">
+  <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
+    <mxGraphModel dx="1163" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="054uL8Zu8NGMfpUmKfU3-2" value="Nootbooks of CITE-seq2023" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="470" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SofGOe4hXOnUT6Bmkbau-1" value="CITE-seq2023 R" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
